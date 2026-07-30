@@ -1,4 +1,4 @@
-# E-commerce-Kigalux-app-ui-ux-prototype
+# E-commerce-Kigalux-shopify-store
 
 **Course:** INSY 8313 – Management Information System (MIS)
 **Institution:** Adventist University of Central Africa

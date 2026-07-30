@@ -1,4 +1,4 @@
-# Kigalux — Made in Rwanda Tailors Marketplace
+# E-commerce-project-Kigalux-shopify-store
 
 **Course:** INSY 8313 – Management Information System (MIS)
 **Institution:** Adventist University of Central Africa

@@ -17,8 +17,8 @@
 ## 1. Selected System & Figma Link
 
 * **Selected Application:** E-Commerce Mobile Application — a marketplace supporting and promoting local Rwandan tailors and "Made in Rwanda" fashion, connecting them to a national and international audience
-* **Public Figma Link:** https://www.figma.com/design/ffbH6EtJLbs2BryYIZMD49/E-commerce-app?node-id=0-1&t=BPs8wzciEvZAKr8K-1
-* **Public Github repo Link:** https://github.com/iradukundagendrepatient-cmd/E-commerce-Kigalux-app-ui-ux-prototype
+* **Public shopify Link** :https://kigalux.myshopify.com/
+* **Public Github repo Link** :https://github.com/iradukundagendrepatient-cmd/E-commerce-project-Kigalux-shopify-store/tree/main 
   
 
 ---

@@ -73,7 +73,8 @@ The store was built and customized using Shopify's no-code tools — theme custo
 ## Live Website Link
 
 **URL:**  https://kigalux.myshopify.com
-**Password:** KGLux
+
+**Password:**  **KGLux**
 
 *Note: This store is on Shopify's free trial, which requires a password before viewing. Please click "Enter using password" on the landing screen and use the password above to access the live site.*
 
